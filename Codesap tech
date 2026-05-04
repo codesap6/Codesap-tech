@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Codesap Tech | Luxury Digital Solutions in Nigeria</title>
+    <meta name="description" content="Premium Web Design, Graphic Design, and AI Solutions in Nigeria. We build digital experiences that drive growth and revenue.">
+    <meta name="keywords" content="web design Nigeria, graphic design services, AI solutions Nigeria, faceless content creation, Codesap Tech">
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+    <!-- Font Awesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header / Navbar -->
+    <nav class="navbar">
+        <div class="container nav-flex">
+            <div class="logo">CODESAP <span>TECH</span></div>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#faq">FAQ</a></li>
+            </ul>
+            <a href="https://wa.me/2348155075366" class="btn-nav">Get Started</a>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header id="home" class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <span class="badge">Next-Gen Digital Agency</span>
+                <h1>We Build Digital Experiences That <span class="gradient-text">Make You Money.</span></h1>
+                <p>Premium Web Design, Elite Branding, and AI-Driven Automation tailored for visionaries and industry leaders.</p>
+                <div class="hero-btns">
+                    <a href="https://wa.me/2348155075366?text=Hello%20Codesap%20Tech,%20I'm%20interested%20in%20starting%20a%20project." class="btn-primary">Start Your Project on WhatsApp</a>
+                </div>
+            </div>
+        </div>
+        <div class="hero-glow"></div>
+    </header>
+
+    <!-- Services Section -->
+    <section id="services" class="services">
+        <div class="container">
+            <div class="section-header">
+                <h2>Our <span class="gradient-text">Expertise</span></h2>
+                <p>Limited slots available for Q2 projects. Secure your spot now.</p>
+            </div>
+
+            <div class="services-grid">
+                <!-- Graphic Design -->
+                <div class="service-card">
+                    <div class="card-icon"><i class="fas fa-bezier-curve"></i></div>
+                    <h3>Graphic Design</h3>
+                    <p>High-end flyers, logos, and brand identities that command attention.</p>
+                    <ul>
+                        <li><i class="fas fa-check"></i> Custom Brand Identity</li>
+                        <li><i class="fas fa-check"></i> High-Conversion Flyers</li>
+                    </ul>
+                    <a href="https://wa.me/2348155075366?text=Hello%20Codesap%20Tech,%20I'm%20interested%20in%20Graphic%20Design%20services." class="btn-card">Order on WhatsApp</a>
+                </div>
+
+                <!-- Web Design -->
+                <div class="service-card">
+                    <div class="card-icon"><i class="fas fa-code"></i></div>
+                    <h3>Web Design</h3>
+                    <p>Ultra-responsive, modern websites built for conversion and speed.</p>
+                    <ul>
+                        <li><i class="fas fa-check"></i> SEO Optimized</li>
+                        <li><i class="fas fa-check"></i> Luxury UI/UX Focus</li>
+                    </ul>
+                    <a href="https://wa.me/2348155075366?text=Hello%20Codesap%20Tech,%20I'm%20interested%20in%20Web%20Design%20services." class="btn-card">Order on WhatsApp</a>
+                </div>
+
+                <!-- AI Solutions -->
+                <div class="service-card feature">
+                    <div class="card-icon"><i class="fas fa-brain"></i></div>
+                    <h3>AI Solutions</h3>
+                    <p>Smart workflows and automation tools to double your efficiency.</p>
+                    <ul>
+                        <li><i class="fas fa-check"></i> Workflow Automation</li>
+                        <li><i class="fas fa-check"></i> AI Integration</li>
+                    </ul>
+                    <a href="https://wa.me/2348155075366?text=Hello%20Codesap%20Tech,%20I'm%20interested%20in%20AI%20Solutions." class="btn-card">Order on WhatsApp</a>
+                </div>
+
+                <!-- Faceless Content -->
+                <div class="service-card">
+                    <div class="card-icon"><i class="fas fa-clapperboard"></i></div>
+                    <h3>Faceless Content</h3>
+                    <p>Monetize TikTok and YouTube with viral-ready, faceless video systems.</p>
+                    <ul>
+                        <li><i class="fas fa-check"></i> Video Editing</li>
+                        <li><i class="fas fa-check"></i> Script & Strategy</li>
+                    </ul>
+                    <a href="https://wa.me/2348155075366?text=Hello%20Codesap%20Tech,%20I'm%20interested%20in%20Faceless%20Content%20Creation." class="btn-card">Order on WhatsApp</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <div class="container about-flex">
+            <div class="about-text">
+                <h2>Innovation Meets <span class="gradient-text">Results.</span></h2>
+                <p>Codesap Tech is a Nigerian-based digital powerhouse. We don't just build websites or design graphics; we architect systems that empower entrepreneurs and businesses to dominate the digital landscape.</p>
+                <p>By blending futuristic AI solutions with clean, premium design, we ensure your brand looks expensive and works flawlessly.</p>
+            </div>
+            <div class="about-stats">
+                <div class="stat-item"><h3>100+</h3><p>Projects Delivered</p></div>
+                <div class="stat-item"><h3>99%</h3><p>Client Satisfaction</p></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section id="faq" class="faq">
+        <div class="container">
+            <h2 class="text-center">Common <span class="gradient-text">Questions</span></h2>
+            <div class="accordion">
+                <div class="acc-item">
+                    <div class="acc-header">How do I place an order?</div>
+                    <div class="acc-body">Simply click any "Order on WhatsApp" button. We'll discuss your needs and provide a quote instantly.</div>
+                </div>
+                <div class="acc-item">
+                    <div class="acc-header">What is the delivery timeline?</div>
+                    <div class="acc-body">Graphic design takes 24-48 hours. Web projects typically range from 5 to 14 days depending on complexity.</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container footer-grid">
+            <div class="footer-brand">
+                <div class="logo">CODESAP <span>TECH</span></div>
+                <p>Future-ready digital agency based in Nigeria.</p>
+            </div>
+            <div class="footer-contact">
+                <h4>Contact Us</h4>
+                <p><i class="fas fa-envelope"></i> codesap6@gmail.com</p>
+                <p><i class="fas fa-phone"></i> +234 815 507 5366</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            &copy; 2026 Codesap Tech. All rights reserved.
+        </div>
+    </footer>
+
+    <!-- Floating WhatsApp -->
+    <a href="https://wa.me/2348155075366" class="whatsapp-float" target="_blank">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+
+    <script src="script.js"></script>
+</body>
+</html>:root {
+    --bg-dark: #05070a;
+    --bg-card: #0f1218;
+    --primary-glow: #007cf0;
+    --secondary-glow: #00dfd8;
+    --text-main: #ffffff;
+    --text-dim: #a1a1a6;
+    --accent-gradient: linear-gradient(135deg, #007cf0 0%, #00dfd8 100%);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--bg-dark);
+    color: var(--text-main);
+    font-family: 'Inter', sans-serif;
+    line-height: 1.6;
+    overflow-x: hidden;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
+.gradient-text {
+    background: var(--accent-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* Navbar */
+.navbar {
+    padding: 1.5rem 0;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    background: rgba(5, 7, 10, 0.8);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+
+.nav-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem;
+    letter-spacing: -1px;
+}
+
+.logo span { color: var(--primary-glow); }
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: var(--text-dim);
+    transition: 0.3s;
+    font-size: 0.9rem;
+}
+
+.nav-links a:hover { color: var(--text-main); }
+
+/* Hero */
+.hero {
+    padding: 12rem 0 8rem;
+    position: relative;
+    text-align: center;
+}
+
+.hero-glow {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 400px;
+    background: var(--primary-glow);
+    filter: blur(150px);
+    opacity: 0.2;
+    z-index: -1;
+}
+
+.badge {
+    background: rgba(0, 124, 240, 0.1);
+    color: var(--primary-glow);
+    padding: 0.5rem 1rem;
+    border-radius: 50px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    display: inline-block;
+    border: 1px solid rgba(0, 124, 240, 0.2);
+}
+
+.hero h1 {
+    font-size: clamp(2.5rem, 6vw, 4.5rem);
+    font-family: 'Space Grotesk', sans-serif;
+    line-height: 1.1;
+    margin-bottom: 1.5rem;
+}
+
+.hero p {
+    color: var(--text-dim);
+    font-size: 1.2rem;
+    max-width: 600px;
+    margin: 0 auto 2.5rem;
+}
+
+.btn-primary {
+    background: var(--text-main);
+    color: var(--bg-dark);
+    padding: 1.2rem 2.5rem;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 700;
+    transition: 0.4s;
+}
+
+.btn-primary:hover {
+    background: var(--accent-gradient);
+    color: white;
+    transform: translateY(-3px);
+}
+
+/* Services */
+.services { padding: 8rem 0; }
+.section-header { text-align: center; margin-bottom: 4rem; }
+.section-header h2 { font-size: 3rem; margin-bottom: 1rem; }
+
+.services-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+}
+
+.service-card {
+    background: var(--bg-card);
+    padding: 2.5rem;
+    border-radius: 20px;
+    border: 1px solid rgba(255,255,255,0.05);
+    transition: 0.4s;
+    display: flex;
+    flex-direction: column;
+}
+
+.service-card:hover {
+    border-color: var(--primary-glow);
+    transform: translateY(-10px);
+}
+
+.card-icon {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+    color: var(--primary-glow);
+}
+
+.service-card h3 { margin-bottom: 1rem; font-size: 1.5rem; }
+.service-card p { color: var(--text-dim); margin-bottom: 1.5rem; flex-grow: 1; }
+.service-card ul { list-style: none; margin-bottom: 2rem; color: #888; font-size: 0.9rem; }
+.service-card ul li { margin-bottom: 0.5rem; }
+.service-card ul i { color: var(--secondary-glow); margin-right: 8px; }
+
+.btn-card {
+    border: 1px solid rgba(255,255,255,0.1);
+    color: white;
+    text-align: center;
+    padding: 0.8rem;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: 0.3s;
+}
+
+.btn-card:hover { background: rgba(255,255,255,0.05); }
+
+/* FAQ Accordion */
+.acc-item {
+    background: var(--bg-card);
+    margin-bottom: 1rem;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.acc-header {
+    padding: 1.5rem;
+    cursor: pointer;
+    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+}
+
+.acc-body {
+    padding: 0 1.5rem 1.5rem;
+    color: var(--text-dim);
+    display: none;
+}
+
+/* WhatsApp Float */
+.whatsapp-float {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background: #25d366;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+    z-index: 1000;
+    transition: 0.3s;
+}
+
+.whatsapp-float:hover { transform: scale(1.1); }
+
+@media (max-width: 768px) {
+    .nav-links { display: none; }
+}// Toggle FAQ Accordion
+document.querySelectorAll('.acc-header').forEach(header => {
+    header.addEventListener('click', () => {
+        const body = header.nextElementSibling;
+        const isOpen = body.style.display === 'block';
+        
+        // Close all other bodies
+        document.querySelectorAll('.acc-body').forEach(b => b.style.display = 'none');
+        
+        // Toggle current
+        body.style.display = isOpen ? 'none' : 'block';
+    });
+});
+
+// Scroll animations for Header
+window.addEventListener('scroll', () => {
+    const nav = document.querySelector('.navbar');
+    if (window.scrollY > 50) {
+        nav.style.padding = '1rem 0';
+        nav.style.background = 'rgba(5, 7, 10, 0.95)';
+    } else {
+        nav.style.padding = '1.5rem 0';
+        nav.style.background = 'rgba(5, 7, 10, 0.8)';
+    }
+});
+
+// Smooth scroll
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+        document.querySelector(this.getAttribute('href')).scrollIntoView({
+            behavior: 'smooth'
+        });
+    });
+});
